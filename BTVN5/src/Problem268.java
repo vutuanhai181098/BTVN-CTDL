@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Problem268 {
 
-//    https://leetcode.com/problems/missing-number/submissions/976519937/
+//    https://leetcode.com/problems/missing-number/submissions/974163504/
 
     public int missingNumber(int[] nums) {
         Arrays.sort(nums);
