@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/BTVN6/BTVN6.iml" filepath="$PROJECT_DIR$/BTVN6/BTVN6.iml" />
       <module fileurl="file://$PROJECT_DIR$/BTVN7/BTVN7.iml" filepath="$PROJECT_DIR$/BTVN7/BTVN7.iml" />
       <module fileurl="file://$PROJECT_DIR$/BTVN8/BTVN8.iml" filepath="$PROJECT_DIR$/BTVN8/BTVN8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
     </modules>
   </component>
